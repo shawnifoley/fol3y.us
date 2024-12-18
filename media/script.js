@@ -1,5 +1,5 @@
 function contactUs() {
-    const phoneNumber = '5551234567';
+    const phoneNumber = '4252810182';
     window.location.href = `tel:${phoneNumber}`;
 }
 
