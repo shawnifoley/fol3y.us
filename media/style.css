@@ -138,6 +138,16 @@ body {
     text-align: center;
 }
 
+.white-link {
+    color: white;
+    text-decoration: none;
+}
+
+.email-link {
+    color: var(--secondary-color);
+    text-decoration: none;
+}
+
 footer {
     background-color: #1a252f;
     color: white;
