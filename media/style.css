@@ -138,13 +138,8 @@ body {
     text-align: center;
 }
 
-.white-link {
-    color: white;
-    text-decoration: none;
-}
-
 .email-link {
-    color: var(--secondary-color);
+    color: white;
     text-decoration: none;
 }
 
