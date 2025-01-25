@@ -39,7 +39,7 @@ main {
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     overflow: hidden;
-    width: calc(33.33% - 20px); /* Adjust for number of columns you want */
+    width: calc(33.33% - 20px);
 }
 
 .image-container {
@@ -55,7 +55,7 @@ main {
     transition: transform 0.3s ease;
 }
 .house-card:hover .image-container img {
-    transform: scale(1.1); /* Example hover effect */
+    transform: scale(1.1);
 }
 
 .house-details {
@@ -93,7 +93,7 @@ footer p {
 
 @media (max-width: 900px) {
     .house-card {
-        width: calc(50% - 20px); /* Adjust on smaller screens */
+        width: calc(50% - 20px);
     }
 }
 
